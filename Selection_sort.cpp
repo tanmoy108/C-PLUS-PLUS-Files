@@ -1,4 +1,4 @@
-//Selection sort
+//Selection sort in array
 #include <bits/stdc++.h>
 using namespace std;
 
