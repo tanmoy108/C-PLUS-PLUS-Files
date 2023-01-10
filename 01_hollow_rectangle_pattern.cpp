@@ -1,4 +1,4 @@
-// 1. Hollow Rectangle Pattern
+//1. Hollow Rectangle Pattern
 
 #include <bits/stdc++.h>
 
