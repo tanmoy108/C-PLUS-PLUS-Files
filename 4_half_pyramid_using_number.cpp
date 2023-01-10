@@ -1,4 +1,4 @@
-//half pyramid using number 
+// 4. half pyramid using number 
 
 #include<bits/stdc++.h>
 using namespace std;
