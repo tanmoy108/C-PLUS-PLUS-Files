@@ -1,3 +1,5 @@
+// 11. palindromic pattern
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -56,3 +58,37 @@ int main()
         cout<<endl;
     }
 }
+
+---------------------------anothery way ---------------------------------
+    
+ #include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+     int row,doub;
+     cout<<"row: ";
+     cin>>row; //4
+     for(int i= 1;i<=row;i++)
+     {
+         for(int j=1;j<=row-i;j++)
+         {
+             cout<<" ";
+         }
+         //int k;
+         for(int k=i;k>=1;k--)
+         {
+             cout<<k;
+         }
+         for(int k=2;k<=i;k++)
+         {
+             cout<<k;
+         }
+         for(int j=1;j<=row-i;j++)
+         {
+             cout<<" ";
+         }
+
+         cout<<endl;
+     }
+}
+
