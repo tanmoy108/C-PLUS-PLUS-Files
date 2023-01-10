@@ -1,4 +1,4 @@
-//zig-zag pattern 
+// 13.zig-zag pattern 
 
 #include<bits/stdc++.h>
 using namespace std;
