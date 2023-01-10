@@ -1,4 +1,4 @@
-//0-1 pattern
+//8. 0-1 pattern
 
 #include<bits/stdc++.h>
 using namespace std;
