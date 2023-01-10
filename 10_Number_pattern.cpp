@@ -1,5 +1,4 @@
-//10. Number pattern
-
+// 10. Number pattern
 
 #include<bits/stdc++.h>
 using namespace std;
