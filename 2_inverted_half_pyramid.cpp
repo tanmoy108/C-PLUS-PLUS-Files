@@ -1,4 +1,4 @@
-//inverted pattern
+//2. inverted half pyramid pattern
 
 #include<bits/stdc++.h>
 using namespace std;
