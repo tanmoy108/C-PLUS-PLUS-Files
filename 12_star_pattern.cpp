@@ -1,4 +1,4 @@
-//star pattern
+//12. star pattern
 
 #include<bits/stdc++.h>
 using namespace std;
