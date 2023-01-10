@@ -1,4 +1,4 @@
-//Rhombus pattern
+//9. Rhombus pattern
 
 #include<bits/stdc++.h>
 using namespace std;
