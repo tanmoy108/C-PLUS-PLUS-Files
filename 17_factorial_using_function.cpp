@@ -1,4 +1,4 @@
-
+//17. factorial using function
 #include<bits/stdc++.h>
 using namespace std;
 
