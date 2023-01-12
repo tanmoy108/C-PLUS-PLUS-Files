@@ -1,3 +1,5 @@
+//24. octal to decimal
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
