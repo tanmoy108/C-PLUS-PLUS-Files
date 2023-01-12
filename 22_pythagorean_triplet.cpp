@@ -1,3 +1,5 @@
+//22. pythagorean triplet
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
