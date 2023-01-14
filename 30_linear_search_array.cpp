@@ -1,4 +1,4 @@
-//number searching in array by linear search
+//30. number searching in array by linear search (it will check consecutively )
 //complexity = O(n)
 
 #include <bits/stdc++.h>
