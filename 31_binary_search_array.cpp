@@ -1,5 +1,5 @@
-//number searching in array by binary search
-//complexity = O(log2n)
+//31. number searching in array by binary search
+//complexity = O(log base2 n). it is better than linear search
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -7,7 +7,7 @@ using namespace std;
 int binarySearch(int arr[], int n, int key)
 {
     int s = 0;
-    int e = n;
+    int e = n-1;
 
     while(s<=e)
     {
@@ -51,6 +51,7 @@ int main()
     }
     //sorting end
     //arr[] = {8,12,18,20,22,24,33,42} -> new array
-    cout<< binarySearch(arr,n,key);
+    cout<< binarySearch(arr,n,key) + 1;
 
 }
+
