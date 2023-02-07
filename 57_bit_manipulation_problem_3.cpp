@@ -1,4 +1,4 @@
-//clear bit . clear bit means set 0 on ith position
+//57. clear bit . clear bit means set 0 on ith position
 
 #include<bits/stdc++.h>
 using namespace std;
