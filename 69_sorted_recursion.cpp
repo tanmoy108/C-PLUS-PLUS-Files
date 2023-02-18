@@ -7,7 +7,6 @@
       github: https://github.com/tanmoy108
 ****************************************************************
 */
-
 //69. Check if an array is sorted or not
 #include<bits/stdc++.h>
 using namespace std;
